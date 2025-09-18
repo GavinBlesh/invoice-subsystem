@@ -1,0 +1,160 @@
+items:[
+  {
+    "modelNumber": "WH-1000XM4",
+    "retailCost": 250.0,
+    "code": "c0041b53-ed22-4f24-bc2b-fedf1c5c7ad6",
+    "name": "Flying Bulldozer"
+  },
+  {
+    "modelNumber": "950H",
+    "retailCost": 1502340.0,
+    "code": "1633e92e-a764-4fc5-b9ac-3a3a09238498",
+    "name": "Wheel Loaders"
+  },
+  {
+    "modelNumber": "SH-957403",
+    "retailCost": 4.23598222E8,
+    "code": "fc2798b0-8ee6-43f7-a1cf-da943e33318c",
+    "name": "Forklift"
+  },
+  {
+    "modelNumber": "FH94913",
+    "retailCost": 2953.0,
+    "code": "943c0380-5759-4a63-9414-ae4fb0acc66f",
+    "name": "Pogo Stick"
+  },
+  {
+    "unit": "box",
+    "pricePerUnit": 23.0,
+    "quantity": 0,
+    "code": "5756f72e-e87c-4c02-ae07-1208e6acf9df",
+    "name": "batteries"
+  },
+  {
+    "unit": "sheet",
+    "pricePerUnit": 5043923.0,
+    "quantity": 0,
+    "code": "40e8b9f7-a35e-4723-8ce5-2b4617391e8d",
+    "name": "steel"
+  },
+  {
+    "unit": "box",
+    "pricePerUnit": 2.0,
+    "quantity": 0,
+    "code": "7912a383-d8ba-43ec-bbe0-d27472582670",
+    "name": "clay"
+  },
+  {
+    "unit": "pane",
+    "pricePerUnit": 1.0,
+    "quantity": 0,
+    "code": "e93256e9-e17d-48ce-a214-3acfc6d26dcd",
+    "name": "glass"
+  },
+  {
+    "servicer": {
+      "companyUUID": "831e1dc1-e250-49ab-8e28-1b01a96cb173",
+      "name": "Grimes Inc",
+      "contact": {
+        "personUUID": "9d089b3c-ceab-4097-8958-537bf8fd1f54",
+        "lastName": "Bridgette",
+        "firstName": "Gerrie",
+        "phoneNumber": "779-697-5503",
+        "emails": [
+          "bgerrie0@posterous.com"
+        ]
+      },
+      "address": {
+        "street": "Mesta",
+        "city": "Iowa City",
+        "state": "IA",
+        "zipCode": "52245"
+      },
+      "invoices": []
+    },
+    "amount": 0.0,
+    "code": "b8b0a00b-88d7-41bd-8c83-f914ca8b9cc2",
+    "name": "plumbing installation"
+  },
+  {
+    "servicer": {
+      "companyUUID": "501daacf-ea9b-49da-9e2e-ad8912922287",
+      "name": "Baumbach and Sons",
+      "contact": {
+        "personUUID": "6cf3cda3-20e5-463d-897d-1e8480dd5a86",
+        "lastName": "Kingsley",
+        "firstName": "Reditt",
+        "phoneNumber": "973-856-9533",
+        "emails": [
+          "kreditt3@cargocollective.com"
+        ]
+      },
+      "address": {
+        "street": "Meadow Vale",
+        "city": "Tongle",
+        "state": "NH",
+        "zipCode": "94034"
+      },
+      "invoices": []
+    },
+    "amount": 0.0,
+    "code": "59b0cf42-d707-468a-be38-06ba9992f622",
+    "name": "floor deinstallation"
+  },
+  {
+    "servicer": {
+      "companyUUID": "88e99dc9-c6e6-4cd8-8e40-cba8a86fd24a",
+      "name": "Pioneer Diesel",
+      "contact": {
+        "personUUID": "2dd6ba52-0088-41c8-ae88-bf973ef851bf",
+        "lastName": "Todd",
+        "firstName": "Blesh",
+        "phoneNumber": "402-949-5843",
+        "emails": [
+          "blesh@gmail.com",
+          "ToddTheMan@coolsville.com",
+          "ToddBlesh@huskers.unl.edu",
+          "BleshT@mcuedu.nu"
+        ]
+      },
+      "address": {
+        "street": "Madison",
+        "city": "Fort Calhoun",
+        "state": "NE",
+        "zipCode": "68023"
+      },
+      "invoices": []
+    },
+    "amount": 0.0,
+    "code": "69b7fb02-a402-123f-bc99-02fc6312a0b0",
+    "name": "pogo stick repair"
+  },
+  {
+    "servicer": {
+      "companyUUID": "88e99dc9-c6e6-4cd8-8e40-cba8a86fd24a",
+      "name": "Pioneer Diesel",
+      "contact": {
+        "personUUID": "2dd6ba52-0088-41c8-ae88-bf973ef851bf",
+        "lastName": "Todd",
+        "firstName": "Blesh",
+        "phoneNumber": "402-949-5843",
+        "emails": [
+          "blesh@gmail.com",
+          "ToddTheMan@coolsville.com",
+          "ToddBlesh@huskers.unl.edu",
+          "BleshT@mcuedu.nu"
+        ]
+      },
+      "address": {
+        "street": "Madison",
+        "city": "Fort Calhoun",
+        "state": "NE",
+        "zipCode": "68023"
+      },
+      "invoices": []
+    },
+    "amount": 0.0,
+    "code": "02000093-0030-4f2f-bec1-02f040345670",
+    "name": "roof repair"
+  }
+]
